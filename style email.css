@@ -1,0 +1,48 @@
+.heading{
+  height: 100px;
+  width: 1100px;
+  background-color: rgb(88, 86, 86);
+  color: white;
+  padding-left: 10px;
+  padding-right: 20px;
+}
+.second{
+  background-color:rgb(255, 255, 255) ;
+  height: 400px;
+width: 1100px;
+}
+.second button{
+  background-color: rgb(96, 129, 29);
+  color: rgb(241, 241, 241);
+  height: 50px;
+  width: 250px;
+  font-family: Verdana;
+  padding-top: 0px;
+  padding-bottom: 50px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  }
+  .second1{
+    background-color: white;
+    height: 100px;
+width: 1100px;
+text-align: center;
+  }
+  .second3{
+    background-color:rgb(255, 255, 255) ;
+    height: 400px;
+  width: 1100px;
+  background-color: rgb(80, 110, 19);
+  color: black;
+  }
+.parent{
+ text-align: center;
+font-family: Verdana;
+}
+body{
+ background-color: rgb(202, 202, 202);
+}
+*{
+  height: auto;
+  width: auto;
+}
